@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CS-5400 Puzzle 1
 
 For your first puzzle assignment, you will be implementing a **random move generator** for this semester's puzzle.
@@ -16,3 +17,12 @@ For your first puzzle assignment, you will be implementing a **random move gener
 
 - Please make sure you have a working `run.sh` script before submitting.
 
+=======
+# Puzzle Game Happy Cows
+
+A **random move generator** is implemented for the puzzle.
+
+
+ `run.sh` script can be used to run the puzzle game if required.
+
+>>>>>>> 38e86e6f24707660c4eaf4b9932202290d39d2b6
